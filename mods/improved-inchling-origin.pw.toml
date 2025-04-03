@@ -1,0 +1,13 @@
+name = "Overgrown's Origins: Improved Inchling"
+filename = "improved-inchling-origin-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TxQFiZmr/versions/9DP1haXz/improved-inchling-origin-2.4.1.jar"
+hash-format = "sha512"
+hash = "a157377a761553adbfdef5eca871607a24514b79cd3e48803430a2720651e7ca46f31800b06097f3518548792c1b5889827c9b760c26997fbd9f523eaabf0d54"
+
+[update]
+[update.modrinth]
+mod-id = "TxQFiZmr"
+version = "9DP1haXz"

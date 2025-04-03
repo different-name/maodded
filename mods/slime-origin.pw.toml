@@ -1,0 +1,13 @@
+name = "Slime Origin"
+filename = "slimeorigin-0.1.0-alpha+mc.1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pMI1EfEh/versions/DlvipCn9/slimeorigin-0.1.0-alpha%2Bmc.1.21.1.jar"
+hash-format = "sha512"
+hash = "6490e3c352ad797a568df7a870bad3f670336a0a9bc2975cba36028c9b2dbc3a3d7abba7ded5d9e529717b45b168957dc6adcf6e2af98c71511a0107f70f05a2"
+
+[update]
+[update.modrinth]
+mod-id = "pMI1EfEh"
+version = "DlvipCn9"

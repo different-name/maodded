@@ -1,0 +1,13 @@
+name = "Copper Tools & More"
+filename = "copper-tools-more-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2cPe0FKe/versions/ezK8xwrh/copper-tools-more-1.0.1.jar"
+hash-format = "sha512"
+hash = "3e5f03b8e59dc4ef0149de0e4989fd2add8ea79632441f91383d82a08052b93787a93bbddd9b9d2b8aa6a8b761bda61875cc0de5e0be297f54e53983ad898089"
+
+[update]
+[update.modrinth]
+mod-id = "2cPe0FKe"
+version = "ezK8xwrh"

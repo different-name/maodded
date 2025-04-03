@@ -1,0 +1,13 @@
+name = "ThDilos Fox Origin"
+filename = "ThDilos.Fox.Origin_V4.2.0.2_1.21.1-Origins.Alpha.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9qGn08Dr/versions/tzbTEjKO/ThDilos.Fox.Origin_V4.2.0.2_1.21.1-Origins.Alpha.12.jar"
+hash-format = "sha512"
+hash = "74e7b17007db26076d705b991a4212d161395e08c1b9aeee49ea77e203fb92e1ae13cf1fbbe0f9000c13e7b30047089b320b5dff797cb1e6859c9b64671df794"
+
+[update]
+[update.modrinth]
+mod-id = "9qGn08Dr"
+version = "tzbTEjKO"

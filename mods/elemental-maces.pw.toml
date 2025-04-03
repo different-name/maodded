@@ -1,0 +1,13 @@
+name = "Elemental Maces"
+filename = "elementalmaces-fabric-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZRT4oxpT/versions/787VVw4m/elementalmaces-fabric-1.21-1.0.0.jar"
+hash-format = "sha512"
+hash = "7576ae09fd76132f6ac3d05844f0bf9e8103dad1bcb8b740db04126ef6b38d6a9768824f29627be7707054850d7d95639f1f8636e1354b74e05840c45c218cd3"
+
+[update]
+[update.modrinth]
+mod-id = "ZRT4oxpT"
+version = "787VVw4m"

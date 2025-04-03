@@ -1,0 +1,13 @@
+name = "Block Runner"
+filename = "BlockRunner-v21.1.2-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/Ia1jctvb/BlockRunner-v21.1.2-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "b99cc84b029dbc51704bc1e025f01795409a8ddb71f162e2e19cd4f630004affdddbd3e5f4cdcc28e11dd696f5dec73d5ffd93155e038aefd6707d266c14d686"
+
+[update]
+[update.modrinth]
+mod-id = "1VSGxqkt"
+version = "Ia1jctvb"

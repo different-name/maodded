@@ -1,0 +1,13 @@
+name = "Aether Addon: Treasure Reforging"
+filename = "aether_treasure_reforging-1.21.1-1.0.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qIW8vBb/versions/4aMqNDCa/aether_treasure_reforging-1.21.1-1.0.1-fabric.jar"
+hash-format = "sha512"
+hash = "224123cd118fc84b45e4be118acdf41faafc628a7fced26352f20bbcccfe9d35f60679b3739ae5ba4539eed09d098fb74e0c6e9a817e99fcfa53903081a05b8f"
+
+[update]
+[update.modrinth]
+mod-id = "4qIW8vBb"
+version = "4aMqNDCa"

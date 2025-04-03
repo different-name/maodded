@@ -1,0 +1,13 @@
+name = "No Sneaking Over Magma!"
+filename = "no-sneaking-over-magma-1.1.1+MC1.21-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cqDlVM1w/versions/CSG51dav/no-sneaking-over-magma-1.1.1%2BMC1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "3cd9e5dc8161b42e27e03988d3b0d6273b54b8ad15061db6e7e0e9083faf4ca412a4aaa03cc54b4f7938790db13ab4bdc26174f51d3711b2021bb5b8b5b72840"
+
+[update]
+[update.modrinth]
+mod-id = "cqDlVM1w"
+version = "CSG51dav"

@@ -1,0 +1,13 @@
+name = "Armadillo Scute Armor"
+filename = "[Fabric] Armadillo Scute Armor - MC 1.21 - 1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ROQUKdm5/versions/rhmxngLe/%5BFabric%5D%20Armadillo%20Scute%20Armor%20-%20MC%201.21%20-%201.0.1.jar"
+hash-format = "sha512"
+hash = "e6d78f7e8d5fbed1ff32e37e6034214c854ac33f76f67b404257bd86e9b1e6fd0dfc8402234319e060ad47e3893ef9b678af91aac31a6c0b739b2a34190f93f1"
+
+[update]
+[update.modrinth]
+mod-id = "ROQUKdm5"
+version = "rhmxngLe"

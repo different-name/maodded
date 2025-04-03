@@ -1,0 +1,13 @@
+name = "Stack Refill"
+filename = "stackrefill-1.21.1-4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mQWkB9ON/versions/pZvybeGD/stackrefill-1.21.1-4.6.jar"
+hash-format = "sha512"
+hash = "157f2f8082c485b11270b0c50a0e03b1ef6c848ac78a11a3b2e042ba3e64f1f1a55b24b420136c79ac9da7779e41b44b77180c7379e317ca46aa2cf38bc62b88"
+
+[update]
+[update.modrinth]
+mod-id = "mQWkB9ON"
+version = "pZvybeGD"
