@@ -1,4 +1,4 @@
-name = "Diffy ' S Maodded Minecraft"
+name = "Diffy's Maodded Minecraft"
 author = "Diffy"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6fa4a5e1e6957355dd655c338997540591487a201c18007bf08c0ee3c6415616"
+hash = "5933303b14cd574e74d6c8ddbaf4fb68376f0871a383527341606f15d123323b"
 
 [versions]
 fabric = "0.16.12"

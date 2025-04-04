@@ -1,0 +1,13 @@
+name = "Slim Fire"
+filename = "§eSlim§0 §eFire§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0CPaGWh/versions/ZLxNTj60/%C2%A7eSlim%C2%A70%20%C2%A7eFire%C2%A70.zip"
+hash-format = "sha512"
+hash = "a40f83fa842c5177497c3484a25be2b39ef0b8d6ed4e9daffe179ad34ba4876c2b8cba0db331a54cc8a6be238a4561468d85339e270fbe9128738b111c3b8682"
+
+[update]
+[update.modrinth]
+mod-id = "e0CPaGWh"
+version = "ZLxNTj60"

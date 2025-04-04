@@ -1069,3 +1069,53 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slim-fire.pw.toml"
+hash = "aef7eb98434d6a6376e2086bfe63c6a43cbd1ffd67cdc2b75380609c8cac8468"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark-refined.pw.toml"
+hash = "4053bda629ab61d852006c9321fecb7e6dec555bf89a9e244f485c1bfc14d871"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-bushy-leaves.pw.toml"
+hash = "ebd09f2e2e8de0ec0be7352f1612be3326f860eaf0faf25a91acba85925a418e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "fa7a1393c11f2be2e90e001f2c031352577aa38edd927193b541594ff5b55947"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-biome-river-pond.pw.toml"
+hash = "de652ed6edc8472e8414eda102a11621bf2119c0d62905363c1eab71f67f089e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "ae7edf88421a097a50a8d2081dad32598bc24fc3bff7f0961763645a6fff37d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potions.pw.toml"
+hash = "9f9743c793b257f5dee93d4aa492811aff475f90e7005fb723053fd5daaf90c4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+metafile = true

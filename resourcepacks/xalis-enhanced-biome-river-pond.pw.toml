@@ -1,0 +1,13 @@
+name = "xali's Enhanced Biome River & Pond"
+filename = "xali's Enchanced Biome River & Pond v1.2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5INGWOv/versions/5hxpMyHV/xali%27s%20Enchanced%20Biome%20River%20%26%20Pond%20v1.2.2.zip"
+hash-format = "sha512"
+hash = "1045cc8c61145d3972bccf38a07d2225f20e7630236f17ab8bf8dcef40825f33a8487947d918248a3788426f1c4b56424f16f92d09ea85bba4cd9aa6a3e56982"
+
+[update]
+[update.modrinth]
+mod-id = "b5INGWOv"
+version = "5hxpMyHV"
