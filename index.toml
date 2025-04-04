@@ -184,11 +184,6 @@ hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
-metafile = true
-
-[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
 metafile = true
