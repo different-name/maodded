@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/oracle-index.pw.toml"
-hash = "2209880171f3c2d8b634621019ce1bad8947de58621a5195f42d481fceb560cb"
+hash = "1357c83d03aea867214709fe46a88976695d3475ccb2003a089e193938c9abed"
 metafile = true
 
 [[files]]
