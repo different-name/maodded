@@ -1,0 +1,13 @@
+name = "LavaWalker"
+filename = "LavaWalkerMod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pWoC2eCi/versions/WiuXiaeH/LavaWalkerMod.jar"
+hash-format = "sha512"
+hash = "909323fea781edb34587ef209a1b2b1f1daaad19ac29198ad4d987ab7f1cc55587ff962bf11e222dec0c8df4cb72e76f49d522c9b53042d58fb890a8963ddb16"
+
+[update]
+[update.modrinth]
+mod-id = "pWoC2eCi"
+version = "WiuXiaeH"
