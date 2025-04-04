@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HFk2Vqdv/versions/N6Ixb5Mx/mace3d-fabric-1.21.X-1.1.0.jar"
-hash-format = "sha512"
-hash = "0a50488de0c954f367e19f3f47f0b79c2eebb7b68bb9144e6f6a8d0db8a80f1f84d44750ab881664bfb75c6c8353ec5d90bb5ce834b764a32cf5c47a3f8420ef"
+hash-format = "sha256"
+hash = "9d5ebd591226ebafb677becc3e02d915f33b4adce10c7bfe047fe4221a43d533"
 
 [update]
 [update.modrinth]

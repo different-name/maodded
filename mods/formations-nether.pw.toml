@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/cGvQGRls/versions/6DBJbZXK/formationsnether-1.0.5-mc1.21%2B.jar"
-hash-format = "sha512"
-hash = "db25dd89c37c1e95880a570c63ca53aa4713064a19dbb8016dab63aa68232a252c93277b2b5f0e42e8006d8de197707bf487b431ead3d27f39b85f6551c6ff8e"
+hash-format = "sha256"
+hash = "5a2072de5d94ebf6230803c73af2f2de7374263efc068ce50e8fb6fc93336505"
 
 [update]
 [update.modrinth]

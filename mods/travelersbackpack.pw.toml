@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rlloIFEV/versions/Ad8YUkZd/travelersbackpack-fabric-1.21.1-10.1.17.jar"
-hash-format = "sha512"
-hash = "1eb1a373feacaf80551c035450d46aea9e3957c268937a9fa5f376871792d08a3808211a611a3adc9caae5a1f7c81b9c242089f3cc836713e3d09f81ab33bba0"
+hash-format = "sha256"
+hash = "b7d182a9060d745533e91ee984dbc1472deaeb21acff488124541278df28d60a"
 
 [update]
 [update.modrinth]

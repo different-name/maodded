@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ECOSu6pa/versions/WCqqJrJB/flowerymooblooms-fabric-mc1.21-2.0.2.jar"
-hash-format = "sha512"
-hash = "5b8fe2a7f8deba660675afa356768cebdeb3c185939a0031b91342ca2df9448a8c3a3b9446ddb543329e0a907c86e7ab56f005c41d02694de33fa77406bd6ac2"
+hash-format = "sha256"
+hash = "71130b54e2a3e674e7073a2f974f2c62702ea1725bd98b8be947d5f4e3ea7b8e"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/x02cBj9Y/versions/ramqgou6/status-effect-bars-1.0.6.jar"
-hash-format = "sha512"
-hash = "3e33772836b72d05a169c853a87971f56ca202604486d50fc408b604eef697acc66274491d0ad85544ca2446af7d9172955a9b28b626c543118125fa812f9652"
+hash-format = "sha256"
+hash = "92f3c38dcc2ecb8a6407d3a8bf91062f8d44c0483b7a35b108da80a9be1507c1"
 
 [update]
 [update.modrinth]

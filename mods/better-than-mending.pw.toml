@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Lvv4SHrK/versions/xv5fSPWX/BetterThanMending-2.2.0.jar"
-hash-format = "sha512"
-hash = "04f3bb5b2f75e35e38e2dad1b3cf37ecef4f5221cb25a4eff884409dcd1ecf13b04352d4bd1214fc58c626228927abe822bd36848d992e2ab8c5de35d2e870d8"
+hash-format = "sha256"
+hash = "dbbefac7ca5b4302538dda827f365a741dc7a15372b64f02a07abda47a2c111b"
 
 [update]
 [update.modrinth]

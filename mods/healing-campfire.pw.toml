@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/kOuPUitF/versions/Dq3x3ElV/healingcampfire-1.21.1-6.2.jar"
-hash-format = "sha512"
-hash = "157d0a34b13f594297ec7d587e6ed9097e24c6c21d143990a899cda0989902580518ba98181beb55f539a7a0c8feaf94e2b6230a9aee2619d3e5ec4798ec2d3d"
+hash-format = "sha256"
+hash = "b5069e620a2ea08528d2dd8cbcc9c0229b08737ed9a75ba40b093e2eb9943e11"
 
 [update]
 [update.modrinth]

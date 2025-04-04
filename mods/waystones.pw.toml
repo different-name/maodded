@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/bUmXVpBV/waystones-fabric-1.21.1-21.1.13.jar"
-hash-format = "sha512"
-hash = "be99201d622b53593b558903f4bf3eea4aac54f1ffc691dd6fc277a6010384d3fbdcb824670d2e6dad207d436e68ba928966ab91161ad479c51136aca09584ad"
+hash-format = "sha256"
+hash = "23262076cc00fb2d9016b93278f11db885a29bc121ff59aba059b6bba2b8b9e0"
 
 [update]
 [update.modrinth]

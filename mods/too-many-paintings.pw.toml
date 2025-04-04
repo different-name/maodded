@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T8Fpxcl7/versions/UKyKUs8c/toomanypaintings-1.0.2-1.21-fabric.jar"
-hash-format = "sha512"
-hash = "cc5450d6efd22da1dd65fde7d0898d3f502472822fac59da093343cbe2274f4d8d47dd811371dfb0f3daede1f2050fe3d048afa10f8a988fd56510629c27e872"
+hash-format = "sha256"
+hash = "d51701f64977d4faf847f5d153abfe66b64342f17105a01267d93adfa1bad5bd"
 
 [update]
 [update.modrinth]

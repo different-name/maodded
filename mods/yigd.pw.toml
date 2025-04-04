@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HnD1GX6e/versions/onYxiALI/youre-in-grave-danger-fabric-2.4.16.jar"
-hash-format = "sha512"
-hash = "7296e8f470b59a85b40430155d43e40e0e92b46c9ad3e29b4fa19ebf3d0eb77255e337c4b7bdb8dc431fe6365032b1c8da8587a188c3cc21ec38d710d810a847"
+hash-format = "sha256"
+hash = "d2479ecda2b3f9403c6206c57d0d120c0bafa149fbce24833d264cbbd7a70507"
 
 [update]
 [update.modrinth]

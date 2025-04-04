@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/o4gsLB4v/versions/Sen7E5yx/lost-libraries-1.1.2.jar"
-hash-format = "sha512"
-hash = "c4c517fd3b444e2d3c55702554db175dfcded02a316ab9920edcfb2b29c7a963d83b08bf8ed66b1441650a93a7e3666cf5bc6934e76669e919a4e66a57d351de"
+hash-format = "sha256"
+hash = "3ed77dc27f67a6f71adb21b5cf42fc286730506a2d481e5e4d34b43313af844f"
 
 [update]
 [update.modrinth]

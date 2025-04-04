@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/U7G4EHLF/versions/W3gMQcuJ/origins-kitsune-1.3.jar"
-hash-format = "sha512"
-hash = "13a21e121caad763b41e0ff082cb92ac49c5a8e105e7812c00eed4ff4019ebc31b81068aba60a13ddafac4cf1fee902feb2ef54650cbfeb0e96332eca826d7c3"
+hash-format = "sha256"
+hash = "6bbb06f60b40b8a57ab4b21953ff1dde181b8114422250cedb8f67ec934c165b"
 
 [update]
 [update.modrinth]

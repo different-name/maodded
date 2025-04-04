@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/PEvrTvgj/geckolib-fabric-1.21.1-4.7.5.1.jar"
-hash-format = "sha512"
-hash = "8f2f95c8801c609c96834d06f14046cde2877dc18aa351e35b957d3d123688f61b673f8c9f1cf8fbffe345d2ada61c61d5dea0864595422d82351dcfca49090c"
+hash-format = "sha256"
+hash = "688e0509cfa1bd9a11545a9d3ea788c62eef7341a96856c91170c44629a851f5"
 
 [update]
 [update.modrinth]

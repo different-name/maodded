@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Srw5RQ6k/versions/dEGWry22/xali%27s%20Enhanced%20Vanilla%20-1.11.2b-rev.54d51d4.zip"
-hash-format = "sha512"
-hash = "0cff19650964315db7af5336778cb08ac346c8f19a7065fa176fa735942844eb3a565c3a148688751953624f79ad0bb4fa23f60d30eb468ec2edf4737ad12176"
+hash-format = "sha256"
+hash = "ae69dcb419174a645a42eb3655da96cc51da9db19d3c5edbcd332071ed8561df"
 
 [update]
 [update.modrinth]

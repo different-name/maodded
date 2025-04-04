@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/13RpG7dA/versions/IcHYiWHv/image2map-0.7.1%2B1.21.jar"
-hash-format = "sha512"
-hash = "589853e65b377a71ab3b3a4dcb9166cfc8942ca52733b3e38ec7d281deb7ceee2104404ac3f20a025864dd78ab0bbb5af6dfdbbc4a9b3b487a406729aa5c8024"
+hash-format = "sha256"
+hash = "5e4a1aa6adf89d91311321fe2ba1d1b6899f790ccf96d3bf68995a078d6f36c4"
 
 [update]
 [update.modrinth]

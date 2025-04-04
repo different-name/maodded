@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DT56YDir/versions/rgW1SHji/UniversalEnchants-v21.1.4-1.21.1-Fabric.jar"
-hash-format = "sha512"
-hash = "9a7f8c54647fb96d91a34c9d2b9ae71a52e446dda9af71261be4311e8b14751bd9a235fdd31981f5d6cd6800095454460bbf60f4ebe56abaed0a7b2c85b2f8bc"
+hash-format = "sha256"
+hash = "2f052749af935629d53fd796b3ce48bbede5e5df49ef752fec7b1ee644c112f3"
 
 [update]
 [update.modrinth]

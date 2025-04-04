@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Agw7MFEL/versions/ohoLhgFo/head_in_the_clouds-1.1.0.jar"
-hash-format = "sha512"
-hash = "c2772241508773aa225d3ec03c9e490dc92e661542ff6357a9cb3f1f8d38623e376839042c41bcff74734bd465b869539351d0b0d010b5d4ccad14fb7bb9f4b4"
+hash-format = "sha256"
+hash = "9434518387a0bdddd19d552ead7f33b7a3e655db830888f91542664a3e6bab30"
 
 [update]
 [update.modrinth]

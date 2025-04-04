@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/EjnMGH53/Companion-1.21.1-Fabric-6.0.0.jar"
-hash-format = "sha512"
-hash = "a3177c53ca4e3c92070c3e1f2ebdcab4c85c7f12a83c24973634c2d4a10b94be0656b499c9e944f7a1e3f69f499706a3bc1af1bac77c29ca17c3c7ae610edaa5"
+hash-format = "sha256"
+hash = "35d46a868e0d919410c23fba4c660cb6fe92b8a60ada9b208e675ad48719fafc"
 
 [update]
 [update.modrinth]

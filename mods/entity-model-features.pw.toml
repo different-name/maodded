@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/9t01xL7K/entity_model_features_fabric_1.21.1-2.4.1.jar"
-hash-format = "sha512"
-hash = "fe605def2b560685e4c7081c0cbb678720b39308905a362fb155cb8b54a471549100d8d29004d9630348de0283744810c78b62aec9d1f93ca5c9585dbf0eb4db"
+hash-format = "sha256"
+hash = "e825079fdee5bda1fda354ca85f99bbc58689ca6e8094124f0f2f34a741662e1"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/8MosnjaC/versions/loIAU8p3/slabstoblocks-fabric-1.21.1-2.3.jar"
-hash-format = "sha512"
-hash = "814449064b8030ca00e9a4abdc75af4091238c2b3cc4c7d1c1e482da96bb1f2181737817d353af16f7495bf268b3fc4327e1c890b324cd4d6e5ae0a02d33c46e"
+hash-format = "sha256"
+hash = "6de78ee92249ab11e78a0bba7aaf2453c627ec8f2c6387e81c894adf6d12271d"
 
 [update]
 [update.modrinth]

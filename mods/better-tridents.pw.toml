@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KNUSlHiU/versions/qKA8h2Ni/BetterTridents-v21.1.0-1.21.1-Fabric.jar"
-hash-format = "sha512"
-hash = "b4ba107fe6c4fdc2b723e9d3c6a015d191924b35c75b27079df67c4496a1cb53f4a63ec3bad9d5f8061e70d21332c3bbd1e45110768bb7a5ed397096c85cdc5c"
+hash-format = "sha256"
+hash = "8f89666b78e5b3387d64e9a9ddf7f5cb051ed7abfa3482c60d4e1f4bda018a4e"
 
 [update]
 [update.modrinth]

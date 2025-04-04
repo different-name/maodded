@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/atHH8NyV/versions/7UStbU3R/LegendaryTooltips-1.21.1-fabric-1.5.3.jar"
-hash-format = "sha512"
-hash = "7e356a25a72aa811545e52e5fc6316ddb43101eb95f5c1b8eef344cff7bd579840bc2f70c14d6ad8b51440413bed0887758087f89a5c43aa05226385d986e9f9"
+hash-format = "sha256"
+hash = "3aabcdf777ce4a61bcac599523c24e214e9251c30fed968ecc33c98da773c822"
 
 [update]
 [update.modrinth]

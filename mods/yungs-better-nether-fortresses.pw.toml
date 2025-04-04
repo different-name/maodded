@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z2mXHnxP/versions/BpP9FnUL/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.4.jar"
-hash-format = "sha512"
-hash = "80f20c6ee5508b563b809d02bed7f416076a51332f53d7e9ec3d03dd345865f3734df771a3fb786f01994e231a353a1dd483e50af4008872957149063b5bed71"
+hash-format = "sha256"
+hash = "d92fcb4438c50157a095748b7a9b87e5c69f4e78c66b42228d315b9c1443a14f"
 
 [update]
 [update.modrinth]

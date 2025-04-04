@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/b5INGWOv/versions/5hxpMyHV/xali%27s%20Enchanced%20Biome%20River%20%26%20Pond%20v1.2.2.zip"
-hash-format = "sha512"
-hash = "1045cc8c61145d3972bccf38a07d2225f20e7630236f17ab8bf8dcef40825f33a8487947d918248a3788426f1c4b56424f16f92d09ea85bba4cd9aa6a3e56982"
+hash-format = "sha256"
+hash = "de51e6bc114f43b0bc27d3d00f8cec08ff273e91629f8084f77592bf6a37fb9e"
 
 [update]
 [update.modrinth]

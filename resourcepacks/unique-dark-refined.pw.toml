@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9NXbHzs3/versions/50XHxmaj/UniqueDarkRefined%201.20.2-1.21.4%20%28free%29.zip"
-hash-format = "sha512"
-hash = "29bdc97ad8e5d9671505cda387d1bc540db42db9cd6f031356b82fcdfd0c58e0527623f6a09c0d7261391fe844ecf824a582ff4435b1d89ea40481f8cd8ca04b"
+hash-format = "sha256"
+hash = "7af40e6e79752168c918f0f3ba09682144c0be4e2b2a2a364dd671e9fd80c32f"
 
 [update]
 [update.modrinth]

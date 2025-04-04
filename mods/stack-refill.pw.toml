@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mQWkB9ON/versions/pZvybeGD/stackrefill-1.21.1-4.6.jar"
-hash-format = "sha512"
-hash = "157f2f8082c485b11270b0c50a0e03b1ef6c848ac78a11a3b2e042ba3e64f1f1a55b24b420136c79ac9da7779e41b44b77180c7379e317ca46aa2cf38bc62b88"
+hash-format = "sha256"
+hash = "fe208b852cb072082ebfa8d1fd39819c937be21aad5b91aeed610d2fed92df78"
 
 [update]
 [update.modrinth]

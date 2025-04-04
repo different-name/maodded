@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jorDmSKv/versions/jbMPqW6d/MagnumTorch-v21.1.0-1.21.1-Fabric.jar"
-hash-format = "sha512"
-hash = "1c48c9f0ca7a3f853f8fd068358fddbe10d0a929d367527647751a88ec47fda7d3c2af98cdbf6597148c8234976496459185caf643cbf0c2e4e614f1ee6d1e88"
+hash-format = "sha256"
+hash = "30e13975fd6c9c713492e74eac7a2c7d6d999e290377ecd4f77f9366c3eb3499"
 
 [update]
 [update.modrinth]

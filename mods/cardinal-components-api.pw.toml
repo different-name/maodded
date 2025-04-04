@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/K01OU20C/versions/xzMJDzyx/cardinal-components-api-6.1.2.jar"
-hash-format = "sha512"
-hash = "03b21994421da537d6ded9a327da42fc8e74ef2326f9c1b5552c031b396a99e9ddec7a65b9e4b2e5dffce38add1d77ab009f4268cd31d5d4af5aa97dc4f37843"
+hash-format = "sha256"
+hash = "10d8c5167cf1c794cda74c5a49279bb087db04749f83651062d594d2a242daa2"
 
 [update]
 [update.modrinth]

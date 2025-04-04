@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/AeQ4BVpI/voicechat-fabric-1.21.1-2.5.29.jar"
-hash-format = "sha512"
-hash = "5de89c6dcb0dc2ab1c380d1adf69baa65d81f0fae44556bbf814ac93ca8514b0b92d70cff2429c2cb5d4fbeb33c86a76578e83253f58bc20c18f623b89bd431b"
+hash-format = "sha256"
+hash = "e7ac6a70aac91c3fd6699ae7b5da6e57b7a63ba295034977720154d3445708e0"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/KzUD0GSm/soul-fire-d-fabric-1.21-5.1.6.jar"
-hash-format = "sha512"
-hash = "1fc4d63271754f41e138a0daa81146b920ff6e3b8e881595a10720da56eeb441f63db74c55ad63e9ae5aa8dc32019240a58172b91a7d0dbfd546785fbe6ff8aa"
+hash-format = "sha256"
+hash = "a23bc4a9b93b3af38f72d5af43b51da8d496b0bfee51905950f5a95c023469df"
 
 [update]
 [update.modrinth]

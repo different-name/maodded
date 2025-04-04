@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/kWoI0jki/YungsApi-1.21.1-Fabric-5.1.4.jar"
-hash-format = "sha512"
-hash = "5255c69dd14412d5667dceb2dde5aabbbd26229955dbb98945faf2b0adb1089efa70c542d4fa400c8a4c878b7a7e5b60dd0eae2894d60cd681ff09f332349c50"
+hash-format = "sha256"
+hash = "cf23fc33c622c2f025b20ebc52c373b33e4e8ff33d92a77d999e0e8802f33750"
 
 [update]
 [update.modrinth]

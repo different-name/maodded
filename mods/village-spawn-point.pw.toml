@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/KplTt9Ku/versions/mJvAnExd/villagespawnpoint-1.21.1-4.5.jar"
-hash-format = "sha512"
-hash = "e5ecb23749fc4ff752a53b02130c6de0d4853eef975bb28c0214d0eb1196cdd6a7bf96febed0ef36eb2423bbd92bd3f466af5923d1075b18eae11d785225dbec"
+hash-format = "sha256"
+hash = "3d501e018ad67fe5197234835ed63c23958f6128f22fdd50e8fae7bbb3a1c33f"
 
 [update]
 [update.modrinth]

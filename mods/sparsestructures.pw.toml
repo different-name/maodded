@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/qwvI41y9/versions/PHw5XuGl/sparsestructures-fabric-1.21.1-2.2.0.jar"
-hash-format = "sha512"
-hash = "00766175e81eb24719702bc35afe746a457f210204f45361df3505944ccd9276d9568c7d420fd9afeb8b31523e21b5c74fcd24ecbfee7b668bca62c27970a9a8"
+hash-format = "sha256"
+hash = "bdbabcd9b1f9f7c14b3bff52cfb8d0544d2a9f55bfc4c5dd8ce605d4356d1a27"
 
 [update]
 [update.modrinth]

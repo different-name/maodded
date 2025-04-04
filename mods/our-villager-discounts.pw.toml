@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Lw4dU9Z6/versions/At4gVNBr/our-villager-discounts-1.21.1%2Bbuild.0-fabric.jar"
-hash-format = "sha512"
-hash = "2a7985e04a486ffb4b0d893a61bc2b6425d2332d23a2d2a5e158e651489e7fe2e89ca674cdcfd33136a31b313f8c4d949540cb1404d7384307c4240e5cbe6e05"
+hash-format = "sha256"
+hash = "3b7f152e5f8c5c91c9816fde56448d5cdd10a9dc7cdf8d616d37a439c26c704b"
 
 [update]
 [update.modrinth]

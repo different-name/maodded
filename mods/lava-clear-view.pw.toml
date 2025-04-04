@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/bvBMEY9d/versions/AOgwIrEj/LavaClearView-8.0.0.jar"
-hash-format = "sha512"
-hash = "1cd456e357accb5180821ac493049141721f45632eeefe4b6ca736d1876416b7c543770eaaaba7e1565695bf31c6117770f852989bc0c61707206775fa9e62ba"
+hash-format = "sha256"
+hash = "827e3459e4ec0425da43793fb9555a46e98ad286ab251123d381457ef3d6ccd2"
 
 [update]
 [update.modrinth]

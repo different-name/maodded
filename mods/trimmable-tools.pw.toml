@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MJu3fF3K/versions/d0JX71gl/trimmable_tools-fabric-1.21.1-2.0.5.jar"
-hash-format = "sha512"
-hash = "143848039931aff35c0e56ebbddb55a4dcbc59beb5040972daca8cf71dfaf842d29895babd5bbd3803956f9185469c4eee01fb28c14a9400d48572a11edc318e"
+hash-format = "sha256"
+hash = "c85b032396b72b012c3e58b2d977ba430c20cc1bde02d04a00cb8b13e7b7b558"
 
 [update]
 [update.modrinth]

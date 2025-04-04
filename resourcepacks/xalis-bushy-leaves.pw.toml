@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ff4JOkSA/versions/ZslQczG8/xali%27s%20Bushy%20Leaves%20v3.5.0.zip"
-hash-format = "sha512"
-hash = "fe3f32d80e9b7a2121f8818bd68773b85705885e13455f1e2a76fe85f2779d2ddf2749c376a8d998d9adc7f3ab2b0fdfa24ed306f6867368fc3ea1810ddd47bf"
+hash-format = "sha256"
+hash = "3e787ade31f08d66728e7dd7726a5e63a97ea28b078dc811245143379d090a0c"
 
 [update]
 [update.modrinth]

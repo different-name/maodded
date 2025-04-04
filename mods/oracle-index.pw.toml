@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/J8MMsNrL/versions/SC1RaLfr/oracle_index-fabric-0.2.0.jar"
-hash-format = "sha512"
-hash = "faa7e6868cba27895d127da0f47eed7dfdc9a75defc28d116d2a25fc28c722d74fecfa7d966d0b0c269be7adcc3b966e07be67a4a73a2ca6558e3059ba98e1ec"
+hash-format = "sha256"
+hash = "d88b97069aeef975e4b4ce656963315d8d722ac79493a28741aef671d1c92d16"
 
 [update]
 [update.modrinth]

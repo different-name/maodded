@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/TsLZwxGv/AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar"
-hash-format = "sha512"
-hash = "cba802b05bc139732d15a839eb8983e5a083df9c1c6b3d65a07354dd68351b6cc80e76a14ce8e509d80b516f9683b92e4526cca03c988b5e86478c0d4ea91af2"
+hash-format = "sha256"
+hash = "7db6fc039872bf0b5743aab810e5b25a2c485bb1afe5adda6f4103ab4028f5be"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZpBKASR2/versions/3I3axi22/xali%27s%20enchanted%20book%20v1.0.0.zip"
-hash-format = "sha512"
-hash = "a7247fe93b7f3c36338564b5a21a22840723265372434eccbf722d9d1b15201c1c7f02fd4b4e30a228e1db3b700569fdc11d604cb0a6e3f71f14a2bdb623caee"
+hash-format = "sha256"
+hash = "48d8ce7cb630bae276ac99a890426eb6191b53565931c0790a1093455aad29e3"
 
 [update]
 [update.modrinth]

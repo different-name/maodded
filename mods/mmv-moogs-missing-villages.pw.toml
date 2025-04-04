@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/spZb29SD/versions/WkCXj1Zk/mmv-1.0.0-1.21.jar"
-hash-format = "sha512"
-hash = "cebd944bb066515156516ebb1c7ab6aff227e9838182ac3f89b80df8be690ce7dd8d46d7103796074f33297e7a2320bce2cee5f59edd151482ba3b640635bca9"
+hash-format = "sha256"
+hash = "4a2ceba4e2a21211bedbe159aa6d81f2b9958780178ea296fff4d8ce1ab0a161"
 
 [update]
 [update.modrinth]

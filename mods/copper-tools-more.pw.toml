@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2cPe0FKe/versions/ezK8xwrh/copper-tools-more-1.0.1.jar"
-hash-format = "sha512"
-hash = "3e5f03b8e59dc4ef0149de0e4989fd2add8ea79632441f91383d82a08052b93787a93bbddd9b9d2b8aa6a8b761bda61875cc0de5e0be297f54e53983ad898089"
+hash-format = "sha256"
+hash = "f5c9b67c8aed6116f9004ef5b638c10dd6b41208bf62320904f69e00f7b0215c"
 
 [update]
 [update.modrinth]

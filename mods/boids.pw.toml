@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/2OckSy74/versions/aiZEd0aD/Boids-1.2.3.jar"
-hash-format = "sha512"
-hash = "cc4bb075fe7b6263ea16d0c6deaa0ec3ae98d46861f50444406cc3ca9e1cc5a069833bc86007086217240a7cf8664e45bcc99fd4bebc1f5acf7093aaa15922c2"
+hash-format = "sha256"
+hash = "429ad6ddd4a05e20feeeafd90c670d3dddf738ae310eaf8944f8c069f7e3d97f"
 
 [update]
 [update.modrinth]

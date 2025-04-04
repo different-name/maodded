@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/H1JOVjhn/versions/a5jbkyCZ/crawl-0.13.0.jar"
-hash-format = "sha512"
-hash = "0d1b495f9fda3a42d94e1acb2d047d028ac739a75eb98bcf23f7016c950e714d60818a57eafb4ea7e35f308b90f04116109c17aa271032602898e0c0db0cddbd"
+hash-format = "sha256"
+hash = "4477bc89d1e67084f62f007bb45b55428aa96e1eff1f6253772565e3c8849609"
 
 [update]
 [update.modrinth]

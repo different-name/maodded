@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yFn9hTiq/versions/cCOinnlk/xali%27s%20Potions%20v1.0.0.zip"
-hash-format = "sha512"
-hash = "5dc911c1999152ba233a3a35fdac00666a944b83a47c5ad1123f364b8bb9d11c9e93ba4f6130a035946bc662f79862a21f3801f131533797093ffe653b171b55"
+hash-format = "sha256"
+hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
 
 [update]
 [update.modrinth]
