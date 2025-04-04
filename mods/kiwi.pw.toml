@@ -1,6 +1,6 @@
 name = "Kiwi 🥝"
 filename = "Kiwi-1.21-Fabric-15.1.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/iAK06iqs/Kiwi-1.21-Fabric-15.1.5.jar"

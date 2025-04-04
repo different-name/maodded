@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "3d258315f69eeac64c34064c2bd94a62aaf6fc3b8a870c294962372b7f63d818"
+hash = "f28fbd00bc44d036a6f461ccfcaff98f901b9673a37f9872a7e32f72e1606c61"
 metafile = true
 
 [[files]]
