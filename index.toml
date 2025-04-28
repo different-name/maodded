@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "4e18be68b3466b36533cbbacc32f58dd09ea2d7246e09a3175faba5bb1b69af8"
+
+[[files]]
 file = "config/yosbr/config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
