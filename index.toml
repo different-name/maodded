@@ -14,7 +14,7 @@ hash = "c5c0cc30c3aafe719bbf50a90b6d6498b879a8a526b51ce187202b927cff0501"
 
 [[files]]
 file = "config/yosbr/config/origins_server.json"
-hash = "14df457f8aaec3584dcf9253c9557678e1e530fac407dde152131b24ae8ace65"
+hash = "4a28592557abe385d5ec491d166d7e25c3644b8da77aa8a1e7fdd2ad627c5683"
 
 [[files]]
 file = "config/yosbr/config/seasons.json"
