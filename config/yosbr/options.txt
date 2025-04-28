@@ -132,7 +132,7 @@ key_key.apoli.usability_hint.show_powers:key.keyboard.left.alt
 key_key.backslot.switch_backslot:key.keyboard.g
 key_key.backslot.switch_beltslot:key.keyboard.g
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
-key_key.crawl:key.keyboard.unknown
+key_key.crawl:key.keyboard.x
 key_key.deeperdarker.boost:key.keyboard.x
 key_key.deeperdarker.transmit:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown

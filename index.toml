@@ -50,7 +50,7 @@ hash = "5965834aee467647ff7eba8a10a59f58e0e020d8c078469c99a5112cb1f4b961"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "47d3b4a2280e4ecca6b490245c84036a9d26cb45c007d9144d6369097203f028"
+hash = "ef82123e0a8e04782aefafa9549d7d74ad94aa7db1250f07db81c3a8af83d858"
 
 [[files]]
 file = "config/yosbr/servers.dat"
