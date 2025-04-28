@@ -57,6 +57,10 @@ file = "icon.png"
 hash = "67b0529936dad0e37cd40e9a643ebc59457593ec26b58b22fdbd5e43d9c01d36"
 
 [[files]]
+file = "lite.sh"
+hash = "6a180a93da998efa9bbfb8d6bcd0d80c3e7e19843d739292ecb40a7f7906eb3d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bd17a3951d1d3d998638f651a2fa6fec2cf7c25e0b5ded54c3cb30fe11839509"
 metafile = true
