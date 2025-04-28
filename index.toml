@@ -49,6 +49,10 @@ file = "config/yosbr/options.txt"
 hash = "47d3b4a2280e4ecca6b490245c84036a9d26cb45c007d9144d6369097203f028"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "9ad74b626842e26b3ea9e1bb7857e6594af8f9cc94cadced7659a16101034967"
+
+[[files]]
 file = "icon.png"
 hash = "67b0529936dad0e37cd40e9a643ebc59457593ec26b58b22fdbd5e43d9c01d36"
 
