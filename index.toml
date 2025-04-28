@@ -33,6 +33,10 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "a7a186174ac6e051c3c5f779d7f7608a9f944cee9d59cd23d863583e5d0f3fce"
 
 [[files]]
+file = "config/yosbr/config/waystones-common.toml"
+hash = "20fabdd7933ff762700c008781e6de6e8fb8aec39e7e6af0fd3b914117d11a94"
+
+[[files]]
 file = "config/yosbr/config/wover/cached.json"
 hash = "4d53c95d333370e0aae1ecb5059da6e7cec191a1fc9573b269104e66dc49c201"
 
