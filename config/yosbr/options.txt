@@ -72,7 +72,7 @@ notificationDisplayTime:1.0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
-tutorialStep:movement
+tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
@@ -132,7 +132,6 @@ key_key.apoli.usability_hint.show_powers:key.keyboard.left.alt
 key_key.backslot.switch_backslot:key.keyboard.g
 key_key.backslot.switch_beltslot:key.keyboard.g
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
-key_key.carry.desc:key.keyboard.left.shift
 key_key.crawl:key.keyboard.unknown
 key_key.deeperdarker.boost:key.keyboard.x
 key_key.deeperdarker.transmit:key.keyboard.unknown
@@ -147,6 +146,7 @@ key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details_alternative:key.keyboard.unknown
+key_key.medievalorigins.tertiary_active:key.keyboard.v
 key_key.tooltipscroll.moveUp:key.keyboard.page.up
 key_key.tooltipscroll.moveDown:key.keyboard.page.down
 key_key.tooltipscroll.reset:key.keyboard.unknown
@@ -163,6 +163,16 @@ key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_reacharound.keybinding.toggle:key.keyboard.unknown
 key_key.showmeyourskin.open_settings:key.keyboard.k
 key_key.showmeyourskin.global_toggle:key.keyboard.unknown
+key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
+key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_3:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_4:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_5:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_6:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
 key_key.toms_storage.open_terminal:key.keyboard.unknown
 key_key.travelersbackpack.inventory:key.keyboard.e
 key_key.travelersbackpack.sort:key.keyboard.unknown
@@ -174,7 +184,7 @@ key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.right.alt
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.v
+key_key.voice_chat:key.keyboard.i
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown

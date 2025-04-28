@@ -1,0 +1,13 @@
+name = "Sparkweave Engine"
+filename = "Sparkweave-Fabric-0.508.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nf68xfAw/versions/A9rkrlFE/Sparkweave-Fabric-0.508.3.jar"
+hash-format = "sha512"
+hash = "e24a18859b41158b42734fc91d5fef6434b8443ca59f51bb7a5c7eaeb0143f6f8ae726992ac54e1752ff352ca2ad8d346fe2d3134cf88b9668b1dada5679e7df"
+
+[update]
+[update.modrinth]
+mod-id = "nf68xfAw"
+version = "A9rkrlFE"

@@ -3,11 +3,11 @@ filename = "§eSlim§0 §eFire§0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0CPaGWh/versions/ZLxNTj60/%C2%A7eSlim%C2%A70%20%C2%A7eFire%C2%A70.zip"
-hash-format = "sha256"
-hash = "8e7d7f684a57810145a52d8c660490db4de2296baac484c7050df51d4aaa68c6"
+url = "https://cdn.modrinth.com/data/e0CPaGWh/versions/5YzDx6YQ/%C2%A7eSlim%C2%A70%20%C2%A7eFire%C2%A70.zip"
+hash-format = "sha512"
+hash = "541c6abd2166477361fe213876037126ef1e763ff8e9d0c6adda40ae32ff0dd8c004793f0f5a5840e1cacb816cbaba3bef973c4363ce25592faba8e24a39290b"
 
 [update]
 [update.modrinth]
 mod-id = "e0CPaGWh"
-version = "ZLxNTj60"
+version = "5YzDx6YQ"

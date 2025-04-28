@@ -1,0 +1,13 @@
+name = "Common Network"
+filename = "common-networking-fabric-1.0.18-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HIuqnQpi/versions/JfV4uInx/common-networking-fabric-1.0.18-1.21.1.jar"
+hash-format = "sha512"
+hash = "4b118ba4077449b479236923dc3c543025228d469cd281575ab35950473056eccd6457494307646330773e835c025db4008da5fb405918132b196dd1f3603ac3"
+
+[update]
+[update.modrinth]
+mod-id = "HIuqnQpi"
+version = "JfV4uInx"
