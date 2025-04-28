@@ -265,11 +265,6 @@ hash = "22d899d51332175ee535a9827515ac086e82e4fe3baeb717068b581a7a662039"
 metafile = true
 
 [[files]]
-file = "mods/copper-tools-more.pw.toml"
-hash = "cae9665d66e434b514325054fc796f40515278ac95e6ce204096d025ab3f9847"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "6841739ee244bef9e7a1016b2e74f97e03ee8bfa595d2555bd306caf2689c3bd"
 metafile = true
