@@ -404,6 +404,11 @@ hash = "81dd9c736c8da685b292647bd52db1bd2591bf3e2958bfff0a92bb3f7b80b6b4"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "9642962bbcc8bfd0fc299df9858ba7e9ff8d25a6d69a6df976577d9cb219f442"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
 metafile = true
@@ -736,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight-refabricated.pw.toml"
 hash = "cb9971e214cf261d34d61a60a53e4e95b69a056d1c4eba83c744525e727103e9"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
 
 [[files]]
